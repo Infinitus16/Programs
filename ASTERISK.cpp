@@ -984,13 +984,4 @@ for(int k=0;k<25;k++)
 
         }
     }
-
-        cout<<"\n\n\n";
-        cout<<"\t\t\t=====================================================\n";
-        cout<<"\t\t\tDEVELOPED BY : ANANT, SHIVANK, SHIVANSH, UJJWAL JAIN.\n";
-        cout<<"\t\t\t=====================================================\n";
-
-
 }
-
-
